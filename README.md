@@ -4,7 +4,7 @@
 
 这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成，想了解该指南及前端开发更多信息的同学，可以阅读短文《[致 Front-End Developers（2015）](https://github.com/icepy/Front-End-Develop-Guide/blob/master/2015letter.md)》，欢迎开发者一起[维护](https://github.com/icepy/Front-End-Develop-Guide/pulls)，或[反馈/投稿](https://github.com/icepy/Front-End-Develop-Guide/issues/new)。
 
-由 [@wen](https://twitter.com/i_icepy) 负责整理，不足之处还望大家多多包容与提供建议。
+由 [@icepy](https://twitter.com/i_icepy) 负责整理，不足之处还望大家多多包容与提供建议。
 
 <span style="color:lightgray;font-size:12px"></span>
 
